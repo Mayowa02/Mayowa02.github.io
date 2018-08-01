@@ -1,0 +1,52 @@
+h1{
+  color:black;
+  font-size:36px
+}
+
+h2 {
+  color:navy;
+  font-size:20px;
+}
+h3 {
+  color:navy;
+  font-size:20px;
+}
+h4{
+  color:navy;
+  font-size:20px;
+}
+h5{
+  color:navy;
+  font-size:20px;
+}
+
+h6{
+  color:navy;
+  font-size:20px;
+}
+
+img{
+  width: 500px;
+  height: auto;
+}
+
+
+
+body {
+  background-color: #27ad8c;
+}
+
+.fix1{
+  width:150;
+  height:200;
+}
+
+.fix2{
+  width:150;
+  height:200;
+}
+
+.fix3{
+  width:150;
+  height:200;
+}
